@@ -1,5 +1,3 @@
-[![Run on Repl.it](https://repl.it/badge/github/Raziel-Zavaleta/blog_redes_neuronales)](https://repl.it/github/Raziel-Zavaleta/blog_redes_neuronales)
-
 ## Este file crea la estructura de la red y además la evalua
 
 #Estos son 
