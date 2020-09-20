@@ -96,3 +96,4 @@ for i in collect(1:length(data))#calculamos y guardamos la salida de nuestra red
     push!(A,feedforward(red,data[i]))
 end
 println("la red hace la tarea de forma exitosa con esta tasa:", accuracy(etiquetas,A))
+
